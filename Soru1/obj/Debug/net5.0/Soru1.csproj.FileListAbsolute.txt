@@ -1,0 +1,16 @@
+D:\education\PatikaPratikler\Soru1\bin\Debug\net5.0\Soru1.exe
+D:\education\PatikaPratikler\Soru1\bin\Debug\net5.0\Soru1.deps.json
+D:\education\PatikaPratikler\Soru1\bin\Debug\net5.0\Soru1.runtimeconfig.json
+D:\education\PatikaPratikler\Soru1\bin\Debug\net5.0\Soru1.runtimeconfig.dev.json
+D:\education\PatikaPratikler\Soru1\bin\Debug\net5.0\Soru1.dll
+D:\education\PatikaPratikler\Soru1\bin\Debug\net5.0\Soru1.pdb
+D:\education\PatikaPratikler\Soru1\obj\Debug\net5.0\Soru1.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\Soru1\obj\Debug\net5.0\Soru1.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\Soru1\obj\Debug\net5.0\Soru1.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\Soru1\obj\Debug\net5.0\Soru1.AssemblyInfo.cs
+D:\education\PatikaPratikler\Soru1\obj\Debug\net5.0\Soru1.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\Soru1\obj\Debug\net5.0\Soru1.dll
+D:\education\PatikaPratikler\Soru1\obj\Debug\net5.0\refint\Soru1.dll
+D:\education\PatikaPratikler\Soru1\obj\Debug\net5.0\Soru1.pdb
+D:\education\PatikaPratikler\Soru1\obj\Debug\net5.0\Soru1.genruntimeconfig.cache
+D:\education\PatikaPratikler\Soru1\obj\Debug\net5.0\ref\Soru1.dll
